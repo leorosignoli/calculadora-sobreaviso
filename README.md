@@ -4,8 +4,7 @@ Uma calculadora web para cálculo de valores de sobreaviso baseada na CLT (Conso
 
 ## 🚀 Acesso
 
-A aplicação está disponível em: [https://leorosignoli.github.io/sobreaviso-calculator](https://leorosignoli.github.io/sobreaviso-calculator)
-
+A aplicação está disponível em: [https://leorosignoli.github.io/calculadora-sobreaviso/](https://leorosignoli.github.io/calculadora-sobreaviso/)
 ## 💡 Funcionalidades
 
 - Cálculo do valor de sobreaviso (1/3 da hora normal)
